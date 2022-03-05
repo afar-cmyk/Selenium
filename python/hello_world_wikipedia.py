@@ -1,7 +1,7 @@
 # Instalar Selenium con pip (pip install selenium) e importar webdriver desde selenium
 from selenium import webdriver
 
-# Importar esta libreria para utilizar las teclas especiales (enter, shift, ctrl)
+# Importar esta libreria para utilizar las teclas especiales (enter, shift, ctrl, etc...)
 from selenium.webdriver.common.keys import Keys
 
 # Ruta del webdriver del explorador deseado (en este caso Edge esta en la misma carpeta)
